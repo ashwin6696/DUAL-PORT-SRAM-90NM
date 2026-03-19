@@ -102,7 +102,7 @@ The design is verified using a testbench covering:
 👨‍💻 Author
 
 ASHWIN RAO R
-VLSI Design Enthusiast
+(VLSI Design Enthusiast)
 
 This project is for academic and learning purposes.
 
